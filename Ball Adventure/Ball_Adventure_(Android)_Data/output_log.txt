@@ -1,0 +1,68 @@
+Mono path[0] = 'C:/Users/Morgan/Documents/Ball Adventure/Ball_Adventure_(Android)_Data/Managed'
+Mono path[1] = 'C:/Users/Morgan/Documents/Ball Adventure/Ball_Adventure_(Android)_Data/Mono'
+Mono config path = 'C:/Users/Morgan/Documents/Ball Adventure/Ball_Adventure_(Android)_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Morgan/Documents/Ball Adventure/Ball_Adventure_(Android)_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55231
+Multi-casting "[IP] 192.168.1.136 [Port] 55231 [Flags] 2 [Guid] 1119300053 [EditorId] 1312529826 [Version] 1048832 [Id] WindowsPlayer(TitansTower) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55231]
+PlayerConnection already initialized - listening to [0.0.0.0:55231]
+Player data archive not found at `C:/Users/Morgan/Documents/Ball Adventure/Ball_Adventure_(Android)_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 580 (ID=0x1080)
+    Vendor:   NVIDIA
+    VRAM:     1488 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(Android)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(Android)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(Android)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(Android)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(Android)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(Android)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(Android)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(Android)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.119 seconds
+Platform assembly: C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(Android)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(Android)_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 3520x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.464044 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 32bc -> priority: 1 
+  Thread -> id: 4100 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.379444 ms
+System memory in use before: 17.2 MB.
+System memory in use after: 17.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.126981 ms (FindLiveObjects: 0.018912 ms CreateObjectMapping: 0.015610 ms MarkObjects: 0.080752 ms  DeleteObjects: 0.010506 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.363534 ms
+System memory in use before: 17.2 MB.
+System memory in use after: 17.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.130284 ms (FindLiveObjects: 0.019812 ms CreateObjectMapping: 0.024015 ms MarkObjects: 0.075348 ms  DeleteObjects: 0.009606 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.371639 ms
+System memory in use before: 17.2 MB.
+System memory in use after: 17.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.116475 ms (FindLiveObjects: 0.020112 ms CreateObjectMapping: 0.013808 ms MarkObjects: 0.069945 ms  DeleteObjects: 0.010806 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.408563 ms
+System memory in use before: 17.2 MB.
+System memory in use after: 17.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.136588 ms (FindLiveObjects: 0.036623 ms CreateObjectMapping: 0.017111 ms MarkObjects: 0.071746 ms  DeleteObjects: 0.010206 ms)
+

@@ -1,0 +1,62 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 580 (ID=0x1080)
+    Vendor:   NVIDIA
+    VRAM:     1488 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(PC)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(PC)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(PC)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(PC)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(PC)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(PC)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(PC)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(PC)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.098 seconds
+Platform assembly: C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(PC)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Morgan\Documents\Ball Adventure\Ball_Adventure_(PC)_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 3520x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.944655 ms
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 8c4 -> priority: 1 
+  Thread -> id: 2d78 -> priority: 1 
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.527440 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.460197 ms (FindLiveObjects: 0.024615 ms CreateObjectMapping: 0.029719 ms MarkObjects: 0.090358 ms  DeleteObjects: 0.314603 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.498922 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.159703 ms (FindLiveObjects: 0.025516 ms CreateObjectMapping: 0.030319 ms MarkObjects: 0.092459 ms  DeleteObjects: 0.010206 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.496520 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.162104 ms (FindLiveObjects: 0.025816 ms CreateObjectMapping: 0.031220 ms MarkObjects: 0.094861 ms  DeleteObjects: 0.009606 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.507927 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.154899 ms (FindLiveObjects: 0.023715 ms CreateObjectMapping: 0.030019 ms MarkObjects: 0.090958 ms  DeleteObjects: 0.009906 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.520836 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.158502 ms (FindLiveObjects: 0.024015 ms CreateObjectMapping: 0.029719 ms MarkObjects: 0.094260 ms  DeleteObjects: 0.009906 ms)
+
