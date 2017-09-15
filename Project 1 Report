@@ -1,0 +1,11 @@
+CS 485 Game Programming
+Perry, Morgan
+9/18/17
+Assignment 1: Ball Adventure
+	Ball Adventure is a simple and short game consisting of a dozen levels where the player takes control of a ball with the objective of rolling it into a spinning spiral. This is done by either using the keyboard arrows on a computer or by rotating the android device in the direction the player wishes to go.  The challenge is to not touch anything including the walls and prefab spinning obstacles.
+	In this assignment I created and apply a basic texture onto a GameObject, created new scenes, and adjust camera and lighting. I applied previously learned techniques in this assignment such as prefab creation, and controls on the keyboard. Tutorials helped me learn how to add music into a scene and allow it to continue to playing throughout different scenes when navigating to them. I also learned to create motion controls for android and export the file as an .apk file. Future improvements I would may include creating a variety of obstacles and levels, and effects for entering the next scene.
+Resources used in the making of this game include:
+Controls: https://docs.unity3d.com/ScriptReference/30_search.html?q=
+Audio: http://www.youtube.com/watch?v=Yb3isH6j-iU
+Don't Destroy GameObject Script: https://www.youtube.com/watch?v=JKoBWBXVvKY
+Music: gasguy (Newgrounds)
